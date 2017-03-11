@@ -37,4 +37,5 @@ jspm_packages
 .node_repl_history
 
 # other directories and files
+notes-data.json
 play_ground
